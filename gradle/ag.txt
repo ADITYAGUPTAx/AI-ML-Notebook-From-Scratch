@@ -1,0 +1,1 @@
+if python is in this document, then the string will give output as positive and that the string contains the word 'python'. lets see it worked well with the index and find one

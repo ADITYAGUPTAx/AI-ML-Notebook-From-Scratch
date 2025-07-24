@@ -1,0 +1,5 @@
+now we will check as n into input and then what is the output, if n takes in output then we only need to find  once, we can also do it in with find operation, as it will give -1.
+so lets see to do that python.
+the program contains python, and only one other file contains python which is ag.txt so we will document it that way.
+i can type anything in this file no one would care as it is just a myfile and it is a random file with no value.
+ 

@@ -1,0 +1,33 @@
+import random
+
+def game():
+    score=random.randint(100,1000)
+    print(score)
+    f=open("h.txt")
+    hiscore=f.read()
+    hiscore= int(hiscore)
+    if (score>hiscore or hiscore==""):
+        f=open("h.txt","w")
+        score= str(score)
+        f.write(score)
+        f.close()
+    else:
+        print("You lost the game, try again!")
+        f.close()
+
+game()
+
+def func():
+    print("This is a function that changes your score.")
+    a=int(input("Enter your score: "))
+    hiscore=a
+    #print(hiscore)
+    return hiscore
+
+z=func()
+print(z)
+
+
+print("how to change the machine from human to Artificial intelligence setting.")
+print("1. Enter if you wanna update your balance")
+print("2. Enter if you want to update your score")
