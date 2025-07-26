@@ -1,1 +1,1 @@
-This is My notebook from scratch where i practice ML concepts.
+This is my notebook from scratch where i practice ML concepts.
